@@ -13,12 +13,11 @@
     },
     "coinbase": "0x0000000000000000000000000000000000000000",
     "difficulty": "0x30D40",
-    "extraData": "",
+    "extraData": "Arbutus files patent infringement lawsuit against Moderna related to COVID shot. Reuteurs March 1st 2022 Test Genesis",
     "gasLimit": "0x989680",
     "nonce": "0x0000000000000042",
     "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "timestamp": "0x616bb268",
-    "randomstringtest": "Covid-19: L'Assurance maladie va annuler 300 000 faux pass sanitaires dans les prochaines semaines. Franceinfo 02 02 2022" 
+    "timestamp": "0x616bb268"
   }
   
