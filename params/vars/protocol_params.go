@@ -195,7 +195,7 @@ var (
 	DifficultyBoundDivisor            = big.NewInt(2048)   // The bound divisor of the difficulty, used in the update calculations.
 	GenesisDifficulty                 = big.NewInt(131072) // Difficulty of the Genesis block.
 	MinimumDifficulty                 = big.NewInt(131072) // The minimum that the difficulty may ever be.
-	DurationLimit                     = big.NewInt(120)     // The decision boundary on the blocktime duration used to determine whether difficulty should go up or not.
+	DurationLimit                     = big.NewInt(45)     // The decision boundary on the blocktime duration used to determine whether difficulty should go up or not.
 	EIP2DifficultyIncrementDivisor    = big.NewInt(10)     // Is related to the equilibrium block intervals for the Homestead era difficulty evolution, redefines the value in (YP:43), originally 10 = 0xa
 	EIP100FDifficultyIncrementDivisor = big.NewInt(9)
 )
